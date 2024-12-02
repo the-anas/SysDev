@@ -1,0 +1,29 @@
+{
+  "Path_Queries": [
+    {
+      "algorithm": "Openrouteservice (direct)",
+      "internal_name": "Openrouteservice (direct)",
+      "class": ""
+    },
+    {
+      "algorithm": "Openrouteservice (via Server [POST])",
+      "internal_name": "Openrouteservice (via Server [POST])",
+      "class": ""
+    },
+    {
+      "algorithm": "Openrouteservice (via Server [GET])",
+      "internal_name": "Openrouteservice (via Server [GET])",
+      "class": ""
+    },
+    {
+      "algorithm": "Dijkstra Shortest Path",
+      "internal_name": "Dijkstra Shortest Path",
+      "class": ""
+    },
+    {
+      "algorithm": "A* Shortest Path",
+      "internal_name": "A* Shortest Path",
+      "class": ""
+    }
+  ]
+}
